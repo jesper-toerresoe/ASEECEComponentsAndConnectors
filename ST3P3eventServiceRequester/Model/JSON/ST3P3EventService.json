@@ -1,0 +1,569 @@
+﻿//{"VenueList":
+  [
+    {
+      "Id": 3,
+      "Name": "Morten",
+      "Street": "Morten",
+      "Town": "Morten",
+      "Country": "Rusland",
+      "CommingEvents": []
+    },
+    {
+      "Id": 4,
+      "Name": "Friheden A/S",
+      "Street": "Stadion Alle 34",
+      "Town": "8000 Aarhus C",
+      "Country": "Denmark",
+      "CommingEvents": [
+        {
+          "Id": 6,
+          "Title": "DAD",
+          "Weekday": "Fredag",
+          "Monthday": "24",
+          "Month": "November",
+          "Year": "2016",
+          "Time": "16.00",
+          "VPlaceforEvent": "Friheden"
+        },
+        {
+          "Id": 73,
+          "Title": "Birthe Kjær ændret",
+          "Weekday": "Saturday",
+          "Monthday": "13",
+          "Month": "October",
+          "Year": "2016",
+          "Time": "21.00",
+          "VPlaceforEvent": "Friheden"
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Name": "Bodegaen",
+      "Street": "Triangade 420",
+      "Town": "Aarhus C, baby",
+      "Country": "Danmark",
+      "CommingEvents": []
+    },
+    {
+      "Id": 12,
+      "Name": "Kaffe er alt en mandag",
+      "Street": " Otte ruds gade",
+      "Town": "Aarhus",
+      "Country": " Hele verden",
+      "CommingEvents": []
+    },
+    {
+      "Id": 14,
+      "Name": "Harmonien",
+      "Street": "Kystvejen",
+      "Town": "Aarhus",
+      "Country": "Denmark",
+      "CommingEvents": []
+    },
+    {
+      "Id": 20,
+      "Name": "Coconuts",
+      "Street": "Hulahulavej 92",
+      "Town": "Palm Beach",
+      "Country": "Hawaii",
+      "CommingEvents": [
+        {
+          "Id": 11,
+          "Title": "Lukas Graham live for Chinapeople",
+          "Weekday": "Monday",
+          "Monthday": "19th",
+          "Month": "September",
+          "Year": "2040",
+          "Time": "20:00",
+          "VPlaceforEvent": "Sophias place"
+        }
+      ]
+    },
+    {
+      "Id": 23,
+      "Name": "1",
+      "Street": "2",
+      "Town": "3",
+      "Country": "4",
+      "CommingEvents": []
+    },
+    {
+      "Id": 24,
+      "Name": "Riis Skov",
+      "Street": "Skovvejen",
+      "Town": "Århus",
+      "Country": "Danmark",
+      "CommingEvents": []
+    },
+    {
+      "Id": 25,
+      "Name": "Ændret",
+      "Street": "Langt ude i skoven",
+      "Town": " aarhus",
+      "Country": "Dk",
+      "CommingEvents": []
+    },
+    {
+      "Id": 55,
+      "Name": "Ændret",
+      "Street": "Flødevej ",
+      "Town": "Tykkeby",
+      "Country": "Fatland",
+      "CommingEvents": [
+        {
+          "Id": 21,
+          "Title": "Kagespisning",
+          "Weekday": "Ikke kun. Også weekenden",
+          "Monthday": "Selv sidst på måneden",
+          "Month": "Jeps, resten af den",
+          "Year": "Ja, flere år",
+          "Time": "All the time",
+          "VPlaceforEvent": null
+        },
+        {
+          "Id": 75,
+          "Title": "1",
+          "Weekday": "2",
+          "Monthday": "3",
+          "Month": "4",
+          "Year": "5",
+          "Time": "6",
+          "VPlaceforEvent": "7"
+        }
+      ]
+    },
+    {
+      "Id": 56,
+      "Name": "Madison Square Garden 2",
+      "Street": "4 Pennsylvania Plaza",
+      "Town": "New York",
+      "Country": "USA",
+      "CommingEvents": [
+        {
+          "Id": 22,
+          "Title": "YOU SHALL CODE",
+          "Weekday": "Monday",
+          "Monthday": "19",
+          "Month": "September",
+          "Year": "1914",
+          "Time": "10:15",
+          "VPlaceforEvent": "Edison"
+        }
+      ]
+    },
+    {
+      "Id": 58,
+      "Name": "Coconuts",
+      "Street": "Hulahulavej 92",
+      "Town": "Palm Beach",
+      "Country": "Hawaii",
+      "CommingEvents": []
+    },
+    {
+      "Id": 59,
+      "Name": "Coconuts",
+      "Street": "Hulahulavej 92",
+      "Town": "Palm Beach",
+      "Country": "Hawaii",
+      "CommingEvents": []
+    },
+    {
+      "Id": 60,
+      "Name": "Mad og kultur",
+      "Street": "Hej",
+      "Town": "Med dig",
+      "Country": "Africa",
+      "CommingEvents": []
+    },
+    {
+      "Id": 62,
+      "Name": "asdasd",
+      "Street": null,
+      "Town": null,
+      "Country": null,
+      "CommingEvents": []
+    },
+    {
+      "Id": 67,
+      "Name": "Stefans Cykelshop",
+      "Street": "Finlandsgade 22",
+      "Town": "Århus N",
+      "Country": null,
+      "CommingEvents": [
+        {
+          "Id": 28,
+          "Title": "Stefans Cykelforedrag",
+          "Weekday": "Onsdag",
+          "Monthday": "11",
+          "Month": "Januar",
+          "Year": "2017",
+          "Time": "10:00:00",
+          "VPlaceforEvent": "Stefans Cykler"
+        }
+      ]
+    },
+    {
+      "Id": 68,
+      "Name": "Nico",
+      "Street": "Viborgvej",
+      "Town": "Hasle",
+      "Country": "Danmark",
+      "CommingEvents": []
+    },
+    {
+      "Id": 69,
+      "Name": "Hej",
+      "Street": "Hej",
+      "Town": "Hej",
+      "Country": "Hej",
+      "CommingEvents": [
+        {
+          "Id": 33,
+          "Title": "a",
+          "Weekday": "a",
+          "Monthday": "a",
+          "Month": "a",
+          "Year": "a",
+          "Time": "a",
+          "VPlaceforEvent": "a"
+        }
+      ]
+    },
+    {
+      "Id": 70,
+      "Name": "Hej",
+      "Street": "Hej",
+      "Town": "Hej",
+      "Country": "Hej",
+      "CommingEvents": [
+        {
+          "Id": 34,
+          "Title": "a",
+          "Weekday": "a",
+          "Monthday": "a",
+          "Month": "a",
+          "Year": "a",
+          "Time": "a",
+          "VPlaceforEvent": "a"
+        }
+      ]
+    },
+    {
+      "Id": 71,
+      "Name": "Jacob og Daniel",
+      "Street": "Detskerjoaldrigvej",
+      "Town": "Aarhus",
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 36,
+          "Title": "Sund Semester",
+          "Weekday": "Alle dage",
+          "Monthday": null,
+          "Month": null,
+          "Year": null,
+          "Time": null,
+          "VPlaceforEvent": null
+        }
+      ]
+    },
+    {
+      "Id": 72,
+      "Name": "asd",
+      "Street": "asd",
+      "Town": "asd",
+      "Country": "asd",
+      "CommingEvents": [
+        {
+          "Id": 42,
+          "Title": "Sund Semester",
+          "Weekday": "Alle dage",
+          "Monthday": null,
+          "Month": null,
+          "Year": null,
+          "Time": null,
+          "VPlaceforEvent": null
+        }
+      ]
+    },
+    {
+      "Id": 74,
+      "Name": "Train",
+      "Street": "Trian-gade 420",
+      "Town": "Aarhus C, baby",
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 48,
+          "Title": "Foredrag om fordele og ulemper ved bootcamp",
+          "Weekday": "Monday",
+          "Monthday": "23",
+          "Month": "October",
+          "Year": "2016",
+          "Time": "23.45",
+          "VPlaceforEvent": "Train"
+        },
+        {
+          "Id": 49,
+          "Title": "Lasses trylleshow",
+          "Weekday": "Monday",
+          "Monthday": "23",
+          "Month": "October",
+          "Year": "2016",
+          "Time": "23.45",
+          "VPlaceforEvent": "Train"
+        }
+      ]
+    },
+    {
+      "Id": 77,
+      "Name": "sample string 2",
+      "Street": "sample string 3",
+      "Town": "sample string 4",
+      "Country": "sample string 5",
+      "CommingEvents": []
+    },
+    {
+      "Id": 78,
+      "Name": "Coconut Club ",
+      "Street": "Hulahulavej 92",
+      "Town": "Palm Bay",
+      "Country": "Hawaii",
+      "CommingEvents": []
+    },
+    {
+      "Id": 80,
+      "Name": "Idas sofahjørne",
+      "Street": "Idason McIdason",
+      "Town": "Idaho",
+      "Country": "IDA",
+      "CommingEvents": [
+        {
+          "Id": 77,
+          "Title": "Fest",
+          "Weekday": "Onsdag",
+          "Monthday": "26",
+          "Month": "09",
+          "Year": "2016",
+          "Time": "19.00",
+          "VPlaceforEvent": "Aarhus"
+        }
+      ]
+    },
+    {
+      "Id": 82,
+      "Name": "Train",
+      "Street": "Triangade 420",
+      "Town": "Aarhus C, baby",
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 60,
+          "Title": "Lasses trylleshow",
+          "Weekday": "Monday",
+          "Monthday": "23",
+          "Month": "October",
+          "Year": "2016",
+          "Time": "23.45",
+          "VPlaceforEvent": "Train"
+        },
+        {
+          "Id": 61,
+          "Title": "Foredrag om fordele og ulemper ved bootcamp",
+          "Weekday": "Monday",
+          "Monthday": "23",
+          "Month": "October",
+          "Year": "2016",
+          "Time": "23.45",
+          "VPlaceforEvent": "Train"
+        }
+      ]
+    },
+    {
+      "Id": 83,
+      "Name": "Train",
+      "Street": "Triangade 420",
+      "Town": "Aarhus C, baby",
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 62,
+          "Title": "Lasses trylleshow",
+          "Weekday": "Monday",
+          "Monthday": "23",
+          "Month": "October",
+          "Year": "2016",
+          "Time": "23.45",
+          "VPlaceforEvent": "Train"
+        },
+        {
+          "Id": 63,
+          "Title": "Foredrag om fordele og ulemper ved bootcamp",
+          "Weekday": "Monday",
+          "Monthday": "23",
+          "Month": "October",
+          "Year": "2016",
+          "Time": "23.45",
+          "VPlaceforEvent": "Train"
+        }
+      ]
+    },
+    {
+      "Id": 84,
+      "Name": "Train",
+      "Street": "Triangade 420",
+      "Town": "Aarhus C, baby",
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 65,
+          "Title": "Foredrag om fordele og ulemper ved bootcamp",
+          "Weekday": "Monday",
+          "Monthday": "23",
+          "Month": "October",
+          "Year": "2016",
+          "Time": "23.45",
+          "VPlaceforEvent": "Train"
+        }
+      ]
+    },
+    {
+      "Id": 85,
+      "Name": "Hans Henning",
+      "Street": "Brogade",
+      "Town": null,
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 66,
+          "Title": "Ha",
+          "Weekday": "Ons",
+          "Monthday": "j",
+          "Month": "lk",
+          "Year": "8937",
+          "Time": "00:00:00",
+          "VPlaceforEvent": "Finlandsgade"
+        }
+      ]
+    },
+    {
+      "Id": 90,
+      "Name": "Daniels Bodega 2",
+      "Street": "Vejen 1",
+      "Town": "Moskva",
+      "Country": "Rusland",
+      "CommingEvents": []
+    },
+    {
+      "Id": 91,
+      "Name": "Bodega",
+      "Street": "Vejen1",
+      "Town": "Sorring",
+      "Country": "Rusland",
+      "CommingEvents": []
+    },
+    {
+      "Id": 93,
+      "Name": "Bodegaen",
+      "Street": "Vejen 10",
+      "Town": "Voel",
+      "Country": "Rusland",
+      "CommingEvents": []
+    },
+    {
+      "Id": 99,
+      "Name": "Bode",
+      "Street": "Vejen",
+      "Town": "Aarhus",
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 84,
+          "Title": "Lars",
+          "Weekday": "Lars",
+          "Monthday": "Lars",
+          "Month": "Lars",
+          "Year": "Lars",
+          "Time": "Lars",
+          "VPlaceforEvent": "Lars"
+        }
+      ]
+    },
+    {
+      "Id": 101,
+      "Name": "d",
+      "Street": "dd",
+      "Town": "d",
+      "Country": "d",
+      "CommingEvents": [
+        {
+          "Id": 85,
+          "Title": "Nik og Jay",
+          "Weekday": "Monday",
+          "Monthday": "1",
+          "Month": "Jan",
+          "Year": "2017",
+          "Time": "20:00",
+          "VPlaceforEvent": "Storskoven"
+        }
+      ]
+    },
+    {
+      "Id": 102,
+      "Name": "Bodegaen",
+      "Street": "Skolegade 2",
+      "Town": "Aarhus",
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 86,
+          "Title": "Phlake",
+          "Weekday": "Onsdag",
+          "Monthday": "13",
+          "Month": "November",
+          "Year": "2016",
+          "Time": "20.00",
+          "VPlaceforEvent": "Bodegaen"
+        }
+      ]
+    },
+    {
+      "Id": 103,
+      "Name": "Train",
+      "Street": "Havnegade",
+      "Town": "Aarhus",
+      "Country": "Danmark",
+      "CommingEvents": [
+        {
+          "Id": 90,
+          "Title": "YOU SHALL NOT CODE",
+          "Weekday": "Tuesday",
+          "Monthday": "20",
+          "Month": "October",
+          "Year": "1815",
+          "Time": "10:10",
+          "VPlaceforEvent": "Shannon"
+        },
+        {
+          "Id": 91,
+          "Title": "Skoven",
+          "Weekday": "Fredag",
+          "Monthday": "21",
+          "Month": "Okt",
+          "Year": "2016",
+          "Time": "kl 20",
+          "VPlaceforEvent": "Skoven"
+        }
+      ]
+    },
+    {
+      "Id": 114,
+      "Name": "Stedet",
+      "Street": "Stedgade",
+      "Town": "Stedstad",
+      "Country": "Steddyland",
+      "CommingEvents": []
+    }
+  ]
+//}

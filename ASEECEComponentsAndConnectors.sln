@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{EFFE12C3-EE65-4136-A7E5-202A97DE8DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALRESTfulUtil", "DALRESTfulUtil\DALRESTfulUtil.csproj", "{6065A6F1-2896-44D9-874D-1D018B580F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookServiceRequester", "BookServiceRequester\BookServiceRequester.csproj", "{D4C34B69-D0EF-4DCB-80BB-607BA3C8EB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiTestApplication", "GuiTestApplication\GuiTestApplication.csproj", "{1D55510A-49D4-4B8E-86C0-8D8EA05DF31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASEECEVenueServiceRequester", "ST3P3eventServiceRequester\ASEECEVenueServiceRequester.csproj", "{956A60D1-0B9F-4AB0-88F1-7DB6BDBF55ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST3ITS3ExServiceRequester", "ST3ITS3ExServiceRequester\ST3ITS3ExServiceRequester.csproj", "{8D133BF5-5C65-4B4D-8132-859570C7D8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFE12C3-EE65-4136-A7E5-202A97DE8DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFE12C3-EE65-4136-A7E5-202A97DE8DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFE12C3-EE65-4136-A7E5-202A97DE8DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFE12C3-EE65-4136-A7E5-202A97DE8DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6065A6F1-2896-44D9-874D-1D018B580F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6065A6F1-2896-44D9-874D-1D018B580F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6065A6F1-2896-44D9-874D-1D018B580F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6065A6F1-2896-44D9-874D-1D018B580F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C34B69-D0EF-4DCB-80BB-607BA3C8EB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C34B69-D0EF-4DCB-80BB-607BA3C8EB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C34B69-D0EF-4DCB-80BB-607BA3C8EB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C34B69-D0EF-4DCB-80BB-607BA3C8EB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D55510A-49D4-4B8E-86C0-8D8EA05DF31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D55510A-49D4-4B8E-86C0-8D8EA05DF31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D55510A-49D4-4B8E-86C0-8D8EA05DF31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D55510A-49D4-4B8E-86C0-8D8EA05DF31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956A60D1-0B9F-4AB0-88F1-7DB6BDBF55ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956A60D1-0B9F-4AB0-88F1-7DB6BDBF55ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956A60D1-0B9F-4AB0-88F1-7DB6BDBF55ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956A60D1-0B9F-4AB0-88F1-7DB6BDBF55ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D133BF5-5C65-4B4D-8132-859570C7D8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D133BF5-5C65-4B4D-8132-859570C7D8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D133BF5-5C65-4B4D-8132-859570C7D8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D133BF5-5C65-4B4D-8132-859570C7D8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E0EB41C-D7D2-4E63-B03C-EB2F7D5458A2}
+	EndGlobalSection
+EndGlobal
