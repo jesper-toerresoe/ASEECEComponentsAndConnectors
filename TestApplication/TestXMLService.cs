@@ -15,7 +15,7 @@ namespace TestApplication
             BookServiceUtilXML bookservice = new BookServiceUtilXML("bookserviceaseece.azurewebsites.net", "", "api");
             //Test Author metoder
             ArrayOfAuthor  alist = bookservice.GetAuthors();
-            Author a = new Author() { Id = 202 };
+            Author a = new Author() { Id = 2 };
             a = bookservice.GetAuthor(a);
             Author ath = bookservice.GetAuthor(a);
             ath.Name = "Peter Petersen";

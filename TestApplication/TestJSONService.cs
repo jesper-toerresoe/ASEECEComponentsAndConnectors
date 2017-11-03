@@ -16,7 +16,7 @@ namespace TestApplication
             BookServiceUtilJSON bookservice = new BookServiceUtilJSON("bookserviceaseece.azurewebsites.net", "", "api");
             //Test Author metoder
             AuthorsList alist = bookservice.GetAuthors();
-            Author a = new Author() { Id = 202 };
+            Author a = new Author() { Id = 2 };
             a = bookservice.GetAuthor(a);
             Author ath = bookservice.GetAuthor(a);
             ath.Name = "Peter Petersen";
