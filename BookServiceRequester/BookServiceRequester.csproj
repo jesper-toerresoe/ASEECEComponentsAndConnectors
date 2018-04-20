@@ -44,6 +44,7 @@
     <Compile Include="BookServiceUtilXML.cs" />
     <Compile Include="IBookServiceUtilJ.cs" />
     <Compile Include="JSONModel.cs" />
+    <Compile Include="JSONModel1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="XMLModel.cs" />
     <Compile Include="XMLModelSeria.cs" />
@@ -53,6 +54,9 @@
       <Project>{6065a6f1-2896-44d9-874d-1d018b580f23}</Project>
       <Name>DALRESTfulUtil</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MyMiodel.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

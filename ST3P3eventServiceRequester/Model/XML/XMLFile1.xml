@@ -1,0 +1,34 @@
+﻿<ArrayOfVenue xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VenueServiceASEECE.Models">
+  <Venue>
+    <CommingEvents i:nil="true" />
+    <Country>Denmark</Country>
+    <Id>1</Id>
+    <Name>Friheden A/S</Name>
+    <Street>Stadion Alle 34</Street>
+    <Town>8000 Aarhus C</Town>
+  </Venue>
+  <Venue>
+    <CommingEvents i:nil="true" />
+    <Country>Denmark</Country>
+    <Id>2</Id>
+    <Name>Friheden A/S</Name>
+    <Street>Stadion Alle 34</Street>
+    <Town>8000 Aarhus C</Town>
+  </Venue>
+  <Venue>
+    <CommingEvents i:nil="true" />
+    <Country>Denmark</Country>
+    <Id>3</Id>
+    <Name>Friheden A/S</Name>
+    <Street>Stadion Alle 34</Street>
+    <Town>8000 Aarhus C</Town>
+  </Venue>
+  <Venue>
+    <CommingEvents i:nil="true" />
+    <Country>Danmark</Country>
+    <Id>4</Id>
+    <Name>Børges Bodega</Name>
+    <Street>Havnegyden 58</Street>
+    <Town>Aarhus</Town>
+  </Venue>
+</ArrayOfVenue>
